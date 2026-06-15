@@ -31,6 +31,9 @@ To analyze Blinkit's sales performance, customer satisfaction, and inventory dis
 - Data Modeling
 - Data Visualization
 
+## Dashboard Preview
+<a href="C:\Users\User\OneDrive\Pictures">View Dashboard</a>
+
 ## Key Insights
 - Tier 3 outlets generated the highest sales.
 - Regular fat products contributed more revenue than low-fat products.
