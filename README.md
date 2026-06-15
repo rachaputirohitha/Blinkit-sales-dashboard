@@ -32,7 +32,7 @@ To analyze Blinkit's sales performance, customer satisfaction, and inventory dis
 - Data Visualization
 
 ## Dashboard Preview
-<a href="C:\Users\User\OneDrive\Pictures">View Dashboard</a>
+<a href="https://github.com/rachaputirohitha/Blinkit-sales-dashboard/blob/main/dashboard.png">View Dashboard</a>
 
 ## Key Insights
 - Tier 3 outlets generated the highest sales.
