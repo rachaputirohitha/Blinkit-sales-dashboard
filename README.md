@@ -39,3 +39,6 @@ To analyze Blinkit's sales performance, customer satisfaction, and inventory dis
 - Regular fat products contributed more revenue than low-fat products.
 - Medium-sized outlets showed strong sales performance.
 - Certain item categories significantly outperformed others in total sales.
+
+## Dashboard
+<img width="1134" height="635" alt="dashboard" src="https://github.com/user-attachments/assets/bb88cbf7-3657-47d8-a82c-92f40eee3ef8" />
